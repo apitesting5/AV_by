@@ -19,7 +19,7 @@ import utils.PropertiesFile;
 
 public class Tests1 extends BaseTest {
 
-	@Test
+	//@Test
 	public void successLogInTest() throws InterruptedException {
 
 		MainPage mainPage = new MainPage();
